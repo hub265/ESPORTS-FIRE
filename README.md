@@ -1,3 +1,4 @@
+
 <head>    
   <meta charset="UTF-8" />    
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />    
@@ -80,7 +81,7 @@
 <body>    
     
   <div class="logo">    
-    <img src="https://github.com/user-attachments/assets/9e2c18ea-5d66-429f-adf2-0025791c5f86" alt="ESPORTS FIRE Logo">    
+    <img src="https://github.com/user-attachments/assets/26bf7015-4609-4956-ac25-777711acd97e" alt="ESPORTS FIRE Logo">    
   </div>    
     
   <h1>ESPORTS FIRE</h1>    
