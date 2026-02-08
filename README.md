@@ -81,7 +81,7 @@
 <body>    
     
   <div class="logo">    
-    <img src="https://github.com/user-attachments/assets/9e2c18ea-5d66-429f-adf2-0025791c5f86" alt="ESPORTS FIRE Logo">    
+    <img src="https://github.com/user-attachments/assets/2bcc67a9-f83a-40de-aac7-376885b0d10f" alt="ESPORTS FIRE Logo">    
   </div>    
     
   <h1>ESPORTS FIRE</h1>    
